@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    color: white;
+}
